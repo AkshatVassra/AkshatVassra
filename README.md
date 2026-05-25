@@ -1,16 +1,14 @@
 # 💫 Hi 👋, Akshat Vassra
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Developer || Full Stack Developer|| AI&ML Enthusiast
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **akshatvassra456@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** FRA ATLAS PROJECT
+- 🌱 **I’m currently learning:** BTECH IN CSE /AIML
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 📫 **How to reach me:** akshatvassra456@gmail.com
+- 😄 **Pronouns:** Akshat Vassra / He
+- ⚡ **Fun fact:** I Love Tech and creativity
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akshatkiller45) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat.vassra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshat-vassra-0877a2235) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatvassra456@gmail.com) 
