@@ -29,7 +29,7 @@
 ## ⚡ Snapshot
 
 <div align="center">
-  <img src="./assets/snapshot.svg" width="100%" alt="Snapshot"/>
+ <img src="https://raw.githubusercontent.com/AkshatVassra/AkshatVassra/main/assets/snapshot.svg" width="100%" alt="Snapshot"/>
 </div>
 
 <br/>
