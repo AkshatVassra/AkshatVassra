@@ -74,21 +74,24 @@ const akshat = {
 
 > Auto-generated from my GitHub account every few hours, including private contributions.
 
-<div align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkshatVassra&theme=tokyonight&hide_border=true&border_radius=14" alt="streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatVassra&theme=tokyo-night&hide_border=true&area=true&radius=14&custom_title=Contribution%20Activity" width="100%" alt="activity graph"/>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="./metrics.svg" width="100%" alt="GitHub profile card"/>
+</td>
+<td width="50%" valign="top">
+  <img src="./metrics.languages.svg" width="100%" alt="Languages and habits"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="./metrics.calendar.svg" width="100%" alt="Contribution calendar"/>
+</td>
+<td width="50%" valign="middle" align="center">
+  <img src="https://streak-stats.demolab.com/?user=AkshatVassra&theme=tokyonight&hide_border=true&border_radius=14" width="100%" alt="streak"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -102,17 +105,22 @@ const akshat = {
 
 <br/>
 
-## 🚀 Featured Work
+## 🚀 Featured Work & Achievements
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="middle" align="center">
+  <a href="https://github.com/AkshatVassra/FRA-ATLAS">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=AkshatVassra&repo=FRA-ATLAS&theme=tokyonight&hide_border=true&border_radius=14" width="100%" alt="FRA ATLAS"/>
+  </a>
+</td>
+<td width="50%" valign="middle">
+  <img src="./metrics.achievements.svg" width="100%" alt="Achievements"/>
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/AkshatVassra/FRA-ATLAS">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=AkshatVassra&repo=FRA-ATLAS&theme=tokyonight&hide_border=true&border_radius=14" alt="FRA ATLAS"/>
-</a>
-
-</div>
-
-<!-- To add more projects, copy the block above and change repo=... -->
+<!-- To add more projects, copy the pin block above and change repo=... -->
 
 <br/>
 
@@ -124,14 +132,6 @@ const akshat = {
 | 🌱 **Learning** | Advanced full-stack patterns, applied ML |
 | 🤝 **Open to** | Collaborations, internships, startup roles |
 | 💬 **Ask me about** | MERN stack, AI-powered apps, deployment |
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshatVassra&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-</div>
 
 <br/>
 
