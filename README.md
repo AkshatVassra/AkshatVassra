@@ -1,40 +1,130 @@
-# 💫 Hi 👋, Akshat Vassra
-**A passionate Software Developer || Full Stack Developer|| AI&ML Enthusiast
-
-Email Me 👉 ✉️ **akshatvassra456@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** FRA ATLAS PROJECT
-- 🌱 **I’m currently learning:** BTECH IN CSE /AIML
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** akshatvassra456@gmail.com
-- 😄 **Pronouns:** Akshat Vassra / He
-- ⚡ **Fun fact:** I Love Tech and creativity
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akshatkiller45) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat.vassra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshat-vassra-0877a2235) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatvassra456@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AkshatVassra&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AkshatVassra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AkshatVassra&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Akshat%20Vassra&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descSize=18&descAlignY=58" alt="header" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=640&height=40&lines=Building+full-stack+products+with+MERN+%26+TypeScript;Shipping+AI%2FML+ideas+into+real+apps;Currently+working+on+FRA+ATLAS;Open+to+internships+%26+collaborations" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AkshatVassra&label=Profile+views&color=0e7490&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/AkshatVassra?label=Followers&style=flat-square&color=0e7490&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/AkshatVassra?label=Stars&style=flat-square&color=0e7490&logo=github" alt="stars"/>
+<img src="https://img.shields.io/github/last-commit/AkshatVassra/AkshatVassra?label=Updated&style=flat-square&color=0e7490" alt="last commit"/>
+
+<br/><br/>
+
+<a href="https://akshatvassra.dev"><img src="https://img.shields.io/badge/Portfolio-akshatvassra.dev-0f172a?style=for-the-badge&logo=googlechrome&logoColor=5eead4" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/akshat-vassra-0877a2235"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="LinkedIn"/></a>
+<a href="mailto:akshatvassra456@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0f172a?style=for-the-badge&logo=gmail&logoColor=5eead4" alt="Email"/></a>
+<a href="https://instagram.com/akshat.vassra"><img src="https://img.shields.io/badge/Instagram-Follow-0f172a?style=for-the-badge&logo=instagram&logoColor=5eead4" alt="Instagram"/></a>
+<a href="https://discord.gg/akshatkiller45"><img src="https://img.shields.io/badge/Discord-Join-0f172a?style=for-the-badge&logo=discord&logoColor=5eead4" alt="Discord"/></a>
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkshatVassra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👨‍💻 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AkshatVassra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```ts
+const akshat = {
+  role:      "Full Stack Developer | AI & ML Enthusiast",
+  studying:  "B.Tech in CSE (AI/ML)",
+  building:  "FRA ATLAS",
+  stack:     ["TypeScript", "React", "Node.js", "Python", "PostgreSQL"],
+  interests: ["Fintech", "SaaS", "Developer tooling"],
+  lookingFor: "Internships & startup roles",
+  askMeAbout: ["Collaboration", "Full-stack builds", "Tech support"],
+  funFact:   "I love tech and creativity in equal measure ⚡",
+};
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=AkshatVassra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,r&theme=dark" alt="languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" alt="frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,cassandra,apache,tomcat&theme=dark" alt="backend"/>
+
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" alt="ml"/>
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=vercel,gcp,docker,git,github,ps&theme=dark" alt="tools"/>
+
+---
+
+## 📊 Live GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=AkshatVassra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="stats"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkshatVassra&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=AkshatVassra&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatVassra&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="activity graph" width="100%"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatVassra/AkshatVassra/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatVassra/AkshatVassra/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/AkshatVassra/AkshatVassra/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/AkshatVassra/FRA-ATLAS">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=AkshatVassra&repo=FRA-ATLAS&theme=tokyonight&hide_border=true&border_radius=12" alt="FRA ATLAS"/>
+</a>
+
+<!-- Add more pinned repos by copying the block above and changing repo=... -->
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkshatVassra&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **collaborations, internships and interesting projects**. If you have an idea or just want to talk tech, reach out at **[akshatvassra456@gmail.com](mailto:akshatvassra456@gmail.com)**.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22" alt="quote"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
+
+</div>
