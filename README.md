@@ -80,18 +80,16 @@ const akshat = {
   <img src="./metrics.svg" width="100%" alt="GitHub profile card"/>
 </td>
 <td width="50%" valign="top">
-  <img src="./metrics.languages.svg" width="100%" alt="Languages and habits"/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+  <img src="./metrics.languages.svg" width="100%" alt="Most used languages"/>
+  <br/>
   <img src="./metrics.calendar.svg" width="100%" alt="Contribution calendar"/>
-</td>
-<td width="50%" valign="middle" align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkshatVassra&theme=tokyonight&hide_border=true&border_radius=14" width="100%" alt="streak"/>
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AkshatVassra&theme=tokyonight&hide_border=true&border_radius=14" alt="streak"/>
+</div>
 
 <br/>
 
