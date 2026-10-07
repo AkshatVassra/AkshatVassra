@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b1220,50:0f2a3a,100:134e4a&height=260&section=header&text=AKSHAT%20VASSRA&fontSize=64&fontColor=e6fffb&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Builder&descSize=17&descColor=5eead4&descAlignY=62" width="100%" alt="Akshat Vassra"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450a0a,100:dc2626&height=250&section=header&text=AKSHAT%20VASSRA&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Builder&descSize=18&descColor=fca5a5&descAlignY=60" width="100%" alt="Akshat Vassra"/>
 
 <a href="https://akshatvassra.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=700&height=44&lines=Shipping+full-stack+products+with+React+%26+Node;Turning+AI%2FML+ideas+into+real+apps;Currently+building+FRA+ATLAS;Open+to+internships+%26+startup+roles" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=760&height=44&lines=Shipping+full-stack+products+with+React+%26+Node;Turning+AI%2FML+ideas+into+real+apps;Currently+building+FRA+ATLAS;Open+to+internships+%26+startup+roles" alt="typing"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based%20in-Delhi%20NCR-0f172a?style=flat-square&logo=googlemaps&logoColor=5eead4" alt="location"/>
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-0f172a?style=flat-square&logo=academia&logoColor=5eead4" alt="education"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20work-0f172a?style=flat-square&logo=handshake&logoColor=5eead4" alt="status"/>
-<img src="https://komarev.com/ghpvc/?username=AkshatVassra&label=Views&color=0e7490&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/AkshatVassra?label=Followers&style=flat-square&color=0e7490&logo=github" alt="followers"/>
+<img src="https://img.shields.io/badge/Based%20in-Delhi%20NCR-111111?style=flat-square&logo=googlemaps&logoColor=ef4444&labelColor=7f1d1d" alt="location"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-111111?style=flat-square&logo=academia&logoColor=ef4444&labelColor=7f1d1d" alt="education"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20work-111111?style=flat-square&logo=handshake&logoColor=ef4444&labelColor=7f1d1d" alt="status"/>
+<img src="https://komarev.com/ghpvc/?username=AkshatVassra&label=Views&color=b91c1c&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/AkshatVassra?label=Followers&style=flat-square&color=b91c1c&labelColor=111111&logo=github" alt="followers"/>
 
 <br/><br/>
 
-<a href="https://akshatvassra.dev"><img src="https://img.shields.io/badge/Portfolio-akshatvassra.dev-0f172a?style=for-the-badge&logo=googlechrome&logoColor=5eead4"/></a>
-<a href="https://www.linkedin.com/in/akshat-vassra-0877a2235"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=5eead4"/></a>
-<a href="mailto:akshatvassra456@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-0f172a?style=for-the-badge&logo=gmail&logoColor=5eead4"/></a>
-<a href="https://instagram.com/akshat.vassra"><img src="https://img.shields.io/badge/Instagram-Follow-0f172a?style=for-the-badge&logo=instagram&logoColor=5eead4"/></a>
-<a href="https://discord.gg/akshatkiller45"><img src="https://img.shields.io/badge/Discord-Join-0f172a?style=for-the-badge&logo=discord&logoColor=5eead4"/></a>
+<a href="https://akshatvassra.dev"><img src="https://img.shields.io/badge/Portfolio-akshatvassra.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=b91c1c"/></a>
+<a href="https://www.linkedin.com/in/akshat-vassra-0877a2235"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=b91c1c"/></a>
+<a href="mailto:akshatvassra456@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b91c1c"/></a>
+<a href="https://instagram.com/akshat.vassra"><img src="https://img.shields.io/badge/Instagram-Follow-111111?style=for-the-badge&logo=instagram&logoColor=white&labelColor=b91c1c"/></a>
+<a href="https://discord.gg/akshatkiller45"><img src="https://img.shields.io/badge/Discord-Join-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=b91c1c"/></a>
 
 </div>
 
@@ -28,18 +28,9 @@
 
 ## ⚡ Snapshot
 
-```ts
-const akshat = {
-  role:       "Full Stack Developer · AI/ML Engineer",
-  education:  "B.Tech CSE (AI/ML) · Dronacharya College of Engineering",
-  focus:      ["Fintech", "SaaS", "Developer tooling"],
-  building:   "FRA ATLAS",
-  coreStack:  ["TypeScript", "React", "Node.js", "Python", "PostgreSQL"],
-  deploysOn:  ["Vercel", "Netlify", "Cloudflare Workers"],
-  lookingFor: "Internships & placements at product startups",
-  reachMe:    "akshatvassra456@gmail.com",
-} as const;
-```
+<div align="center">
+  <img src="./assets/snapshot.svg" width="100%" alt="Snapshot"/>
+</div>
 
 <br/>
 
@@ -88,7 +79,7 @@ const akshat = {
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkshatVassra&theme=tokyonight&hide_border=true&border_radius=14" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AkshatVassra&hide_border=false&border_radius=14&background=0A0A0A&stroke=7F1D1D&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=F87171&dates=A3A3A3" alt="streak"/>
 </div>
 
 <br/>
@@ -103,22 +94,13 @@ const akshat = {
 
 <br/>
 
-## 🚀 Featured Work & Achievements
+## 🚀 Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="middle" align="center">
-  <a href="https://github.com/AkshatVassra/FRA-ATLAS">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=AkshatVassra&repo=FRA-ATLAS&theme=tokyonight&hide_border=true&border_radius=14" width="100%" alt="FRA ATLAS"/>
+<div align="center">
+  <a href="https://github.com/AkshatVassra/Forestt-Act-Project">
+    <img src="./assets/project-card.svg" width="100%" alt="FRA ATLAS · Forestt-Act-Project"/>
   </a>
-</td>
-<td width="50%" valign="middle">
-  <img src="./metrics.achievements.svg" width="100%" alt="Achievements"/>
-</td>
-</tr>
-</table>
-
-<!-- To add more projects, copy the pin block above and change repo=... -->
+</div>
 
 <br/>
 
@@ -139,6 +121,6 @@ Have a project, an internship opening, or an idea worth shipping? Write to me at
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:0f2a3a,100:0b1220&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:450a0a,100:000000&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
